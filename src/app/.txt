@@ -1,0 +1,5 @@
+Break point defining : must be in tailwind config.ts ---> under content ---->
+theme(object)-----> must be in extend(object)
+BrootForce approach(genreally used): is max width
+
+defining max break point: "name" : {"max":1000px}

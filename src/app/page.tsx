@@ -10,7 +10,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
     <span className="h-[21] ml-3 size-14 flex-shrink-0 w-auto flex items-center">Email: info@ddsgnr.com</span>
     <span className="ml-auto">
       <Image
-        src="/Image/picture.svg"
+        src="/image/picture.svg"
         alt="Image"
         width={20}
         height={20}
@@ -23,7 +23,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 <header className="bg-[#F7F7F7] border-[1px] xm:hidden border-[#676767] py-3 my-3
  font-[400] flex visible items-center tracking-[21] text-[#000000] ">
 
-  <Image src="/Image/picture1.svg"
+  <Image src="/image/picture1.svg"
   alt="Image"
   width={900} height={700}
   className="w-[100px] h-[44px] xm:ml-[148px] xm:w-[52px] xm:h-[74px]"/>
@@ -47,7 +47,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
    
 <span className="mx:hidden xm:visible">
   <Image 
-    src="/Image/Container.svg" 
+    src="/image/Container.svg" 
     alt="loading..." 
     width={670} 
     height={875}
@@ -116,13 +116,13 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
        [social proof to build credibility].</h1>
 
     <Image
-    src="/Image/pic.svg" alt="Image"
+    src="/image/pic.svg" alt="Image"
     width={67} height={43}
     className="h-[80px] leading-relaxed w-[60%] object-contain xm:hidden" 
     />
 
 <Image
-    src="/Image/pic.svg" alt="Image"
+    src="/image/pic.svg" alt="Image"
     width={67} height={43}
     className="h-[80px] leading-relaxed w-[100vh] object-contain mx:hidden" 
     />
@@ -391,7 +391,7 @@ className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 <div className="flex flex-row space-x-56 mt-6">
 <h1 className="ml-12">Design</h1>
 <Image 
-src="/Image/Star.svg" alt="Design"
+src="/image/Star.svg" alt="Design"
 width={54} height={46}
 className="w-[8vh] h-[5vh] "
 /></div>
@@ -421,7 +421,7 @@ className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 <div className="flex flex-row space-x-56 mt-6">
 <h1 className="ml-12">Programmimg</h1>
 <Image 
-src="/Image/Star.svg" alt="Design"
+src="/image/Star.svg" alt="Design"
 width={54} height={46}
 className="w-[8vh] h-[5vh] "
 /></div>
@@ -452,7 +452,7 @@ className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 <div className="flex flex-row space-x-56 mt-6">
 <h1 className="ml-12">Business</h1>
 <Image 
-src="/Image/Star.svg" alt="Design"
+src="/image/Star.svg" alt="Design"
 width={54} height={46}
 className="w-[8vh] h-[5vh] "
 /></div>
@@ -485,7 +485,7 @@ className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 <div className="flex flex-row space-x-56 mt-6">
 <h1 className="ml-12">Art</h1>
 <Image 
-src="/Image/Star.svg" alt="Design"
+src="/image/Star.svg" alt="Design"
 width={54} height={46}
 className="w-[8vh] h-[5vh] "
 /></div>
@@ -515,7 +515,7 @@ className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 <div className="mx:grid mx:grid-flow-row mt-6">
 <h1 className="ml-12">Law</h1>
 <Image 
-src="/Image/Star.svg" alt="Design"
+src="/image/Star.svg" alt="Design"
 width={54} height={46}
 className="w-[8vh] h-[5vh] "
 /></div>
@@ -546,7 +546,7 @@ className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 <div className="flex flex-row space-x-56 mt-6">
 <h1 className="ml-12">Tech</h1>
 <Image 
-src="/Image/Star.svg" alt="Design"
+src="/image/Star.svg" alt="Design"
 width={54} height={46}
 className="w-[8vh] h-[5vh] "
 /></div>
@@ -856,7 +856,7 @@ className="w-[70vh] h-[8vh] mb-36 mt-242 mx:h-[100px] mx:w-[1290px]"
       <li><a href="#" className="underline">Cookies Settings</a></li>
     
   <div className=" pl-[440px] xm:hidden mb-24"> <Image
-src="/Image/Social Links.svg" alt="Image"
+src="/image/Social Links.svg" alt="Image"
 width={45} height={76}
 className="w-[140px] h-[30px]"
 /></div>
@@ -866,7 +866,7 @@ className="w-[140px] h-[30px]"
   </div>
 
   <Image
-src="/Image/Social Links.svg" alt="Image"
+src="/image/Social Links.svg" alt="Image"
 width={45} height={76}
 className="w-[140px] ml-[130px] h-[120px] mx:hidden"
 />

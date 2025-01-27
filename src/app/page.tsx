@@ -87,7 +87,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
   {/* Image Section */}
   <div>
     <Image
-      src="Image/picture11.svg"
+      src="/image/picture11.svg"
       alt="Image"
       width={650}
       height={550}
@@ -100,7 +100,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 
 <div>
     <Image
-      src="Image/picture11.svg"
+      src="/image/picture11.svg"
       alt="Image"
       width={650}
       height={550}
@@ -152,7 +152,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6 xm:hidden">
     {/* "button like icon#1 " */}
     <div className="mt-6 flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon1.svg" alt="Communication Icon" 
+        <Image src="/image/icon1.svg" alt="Communication Icon" 
     width={53} height={64}
  className="w-12 h-12 mr-4"/>
 
@@ -164,7 +164,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 
     {/* "button like icon#2 " */}
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon2.svg" alt="Marketing Icon" 
+        <Image src="/image/icon2.svg" alt="Marketing Icon" 
     width={53} height={64}
    className="w-12 h-12 mr-4"/>
         <div>
@@ -175,7 +175,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 
     {/* "button like icon#3 " */}
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon3.svg" alt="Development Icon"  
+        <Image src="/image/icon3.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4"/>
         <div>
@@ -187,7 +187,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
     
     {/* "button like icon#4 " */}
     <div className="flex items-center mt-12 bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon4.svg" alt="Development Icon"  
+        <Image src="/image/icon4.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4"/>
         <div>
@@ -199,7 +199,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
     
     {/* "button like icon#5 " */}
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon5.svg" alt="Development Icon"  
+        <Image src="/image/icon5.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4"/>
         <div>
@@ -211,7 +211,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
     
     {/* "button like icon#6 " */}
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon6.svg" alt="Development Icon"  
+        <Image src="/image/icon6.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4"/>
         <div>
@@ -223,7 +223,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
     
     {/* "button like icon#7 " */}
     <div className="flex items-center mt-12 bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon7.svg" alt="Development Icon"  
+        <Image src="/image/icon7.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4"/>
         <div>
@@ -235,7 +235,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
     
     {/* "button like icon#8 " */}
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon8.svg" alt="Development Icon"  
+        <Image src="/image/icon8.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4"/>
         <div>
@@ -247,7 +247,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 
     {/* "button like icon#9 " */}
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon9.svg" alt="Development Icon"  
+        <Image src="/image/icon9.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4"/>
         <div>
@@ -263,7 +263,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
    {/* "button like icon#1 " */}
     <section className="mx:hidden">
    <div className="mt-6 flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon1.svg" alt="Communication Icon" 
+        <Image src="/image/icon1.svg" alt="Communication Icon" 
     width={53} height={64}
  className="w-12 h-12 mr-4 mt-3 ml-[7vh]"/>
 
@@ -273,7 +273,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
         </div>
     </div>
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon2.svg" alt="Marketing Icon" 
+        <Image src="/image/icon2.svg" alt="Marketing Icon" 
     width={53} height={64}
    className="w-12 h-12 mr-4 mt-16 ml-[7vh]"/>
         <div>
@@ -284,7 +284,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 
     {/* "button like icon#3 " */}
     <div className="flex items-center bg-gray-100 rounded-lg p-4 shadow-lg">
-        <Image src="Image/icon3.svg" alt="Development Icon"  
+        <Image src="/image/icon3.svg" alt="Development Icon"  
     width={53} height={64}
         className="w-12 h-12 mr-4 mt-16 ml-[7vh]"/>
         <div>
@@ -383,7 +383,7 @@ font-[400] flex items-center tracking-[21] text-[#000000] font-[Roboto]">
 <div className="mx:flex mx:flex-row mx:space-x-3">
 <div>
 <Image
-src="Image/Image.lap.svg" alt="Code..."
+src="/image/Image.lap.svg" alt="Code..."
 width={24} height={33}
 className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 />
@@ -413,7 +413,7 @@ className="w-[8vh] h-[5vh] "
 {/* Code */}
 <div>
 <Image
-src="Image/Image.code.svg" alt="Code..."
+src="/image/Image.code.svg" alt="Code..."
 width={24} height={33}
 className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 />
@@ -443,7 +443,7 @@ className="w-[8vh] h-[5vh] "
 {/*Trade Trend */}
 <div>
 <Image
-src="Image/image.trend.svg" alt="Trade Trend..."
+src="/image/image.trend.svg" alt="Trade Trend..."
 width={24} height={33}
 className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 />
@@ -477,7 +477,7 @@ className="w-[8vh] h-[5vh] "
 <div className="mx:flex mx:flex-row mx:space-x-3 xm:hidden">
 <div>
 <Image
-src="Image/paint.svg" alt="painting..."
+src="/image/paint.svg" alt="painting..."
 width={24} height={33}
 className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 />
@@ -507,7 +507,7 @@ className="w-[8vh] h-[5vh] "
 {/* Library/Rule*/}
 <div>
 <Image
-src="Image/library.svg" alt="Code..."
+src="/image/library.svg" alt="Code..."
 width={24} height={33}
 className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 />
@@ -537,7 +537,7 @@ className="w-[8vh] h-[5vh] "
 {/*Introduction to webflow */}
 <div>
 <Image
-src="Image/webflow.svg" alt="..."
+src="/image/webflow.svg" alt="..."
 width={24} height={33}
 className="ml-5 mt-14 w-[95vh] h-[60vh] mx:w-[70vh] mx:h-[50vh] mx:ml-0"
 />
@@ -581,7 +581,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 <div className="mx:hidden">
 <div className="mx:grid mx:grid-cols-3 mx:grid-rows-1 gap-7">
 <Image 
-  src="Image/james.svg" alt="james"
+  src="/image/james.svg" alt="james"
   width={63} height={78}
   className="w-32 h-32 flex justify-between mt-10 ml-[147px]"
 />
@@ -593,7 +593,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 
 
 <Image 
-  src="Image/SocialIcons.svg" alt="icon"
+  src="/image/SocialIcons.svg" alt="icon"
   width={63} height={78}
   className="w-32 h-32 flex justify-between mx:ml-0 ml-[147px]"
 />
@@ -601,7 +601,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 
 {/* Joseph Picture */}
 <Image 
-  src="Image/jusaph.svg" alt="joseph"
+  src="/image/jusaph.svg" alt="joseph"
   width={63} height={78}
   className="w-32 h-32 flex justify-between mt-10 ml-[147px]"
 />
@@ -611,14 +611,14 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 
 
 <Image 
-  src="Image/SocialIcons.svg" alt="icon"
+  src="/image/SocialIcons.svg" alt="icon"
   width={63} height={78}
   className="w-32 h-32 flex justify-between  ml-[147px]"
 />
 
 {/* Ngumbau Picture */}
 <Image 
-  src="Image/kal.svg" alt="james"
+  src="/image/kal.svg" alt="james"
   width={63} height={78}
   className="w-32 h-32 flex justify-between mt-10 ml-[147px]"
 />
@@ -628,7 +628,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 
 
 <Image 
-  src="Image/SocialIcons.svg" alt="icon"
+  src="/image/SocialIcons.svg" alt="icon"
   width={63} height={78}
   className="w-32 h-32 flex justify-between  ml-[147px]"
 />
@@ -639,7 +639,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
      {/* James Nduku */}
       <div className="row-start-1 row-end-2 col-start-1 col-end-2">
       <Image 
-  src="Image/james.svg" alt="james"
+  src="/image/james.svg" alt="james"
   width={63} height={78}
   className="h-32 flex justify-center items-center w-[454px]"/>
 
@@ -647,7 +647,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
   <p className=" text-lg items-center flex justify-center">Marketing Coordinato</p>
 
 <Image
-  src="Image/SocialIcons.svg" alt="james"
+  src="/image/SocialIcons.svg" alt="james"
   width={63} height={78}
   className="h-16 flex justify-center ml-[170px] items-center w-24"/>
 
@@ -656,7 +656,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
       {/* Joseph */}
       <div className="col-start-2 col-end-3 ml-20 row-start-1 row-end-2">
       <Image 
-  src="Image/jusaph.svg" alt="james"
+  src="/image/jusaph.svg" alt="james"
   width={63} height={78}
   className="h-32 ml-[76px] w-32"/>
 
@@ -664,7 +664,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 <p className="text-lg ml-16">Nursing Assistant</p>
       
 <Image
-  src="Image/SocialIcons.svg" alt="james"
+  src="/image/SocialIcons.svg" alt="james"
   width={63} height={78}
   className="h-9 ml-[90px] mt-4 w-24"/>
       </div>
@@ -673,7 +673,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
       {/* kal */}
       <div className="col-start-3 col-end-4 row-start-1 row-end-2">
       <Image 
-  src="Image/kal.svg" alt="kal"
+  src="/image/kal.svg" alt="kal"
   width={63} height={78}
   className="h-32 ml-[142px] w-32"/>
 
@@ -681,7 +681,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 <p className="text-lg ml-[134px]">Medical Assistant</p>
       
       <Image
-        src="Image/SocialIcons.svg" alt="james"
+        src="/image/SocialIcons.svg" alt="james"
         width={63} height={78}
         className="h-9 ml-[155px] mt-4 w-24"/>
       </div>
@@ -692,7 +692,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
      {/* Erick kim */}
      <div className="row-start-2 row-end-3 col-start-1 col-end-2">
       <Image 
-  src="Image/erick.svg" alt="james"
+  src="/image/erick.svg" alt="james"
   width={63} height={78}
   className="h-32 flex justify-center items-center w-[454px]"/>
 
@@ -701,7 +701,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
   
       
 <Image
-  src="Image/SocialIcons.svg" alt="james"
+  src="/image/SocialIcons.svg" alt="james"
   width={63} height={78}
   className="h-9 ml-[175px] mt-4 w-24"/>
       </div>
@@ -709,7 +709,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
       {/* Stephen */}
       <div className="col-start-2 col-end-3 row-start-2 row-end-3">
       <Image 
-  src="Image/stephen.svg" alt="stephen"
+  src="/image/stephen.svg" alt="stephen"
   width={63} height={78}
   className="h-32 w-32 ml-[150px]"/>
 
@@ -717,7 +717,7 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
 <p className="text-lg ml-[140px]">President of Sales</p>
       
 <Image
-  src="Image/SocialIcons.svg" alt="james"
+  src="/image/SocialIcons.svg" alt="james"
   width={63} height={78}
   className="h-9 ml-[165px] mt-4 w-24"/>
       </div>
@@ -725,14 +725,14 @@ border border-black px-3 py-1 mr-7px rounded-[5px]">View All Courses</button>
       {/* John */}
       <div className="col-start-3 col-end-4 row-start-2 row-end-3">
       <Image 
-  src="Image/kal2.svg" alt="kal"
+  src="/image/kal2.svg" alt="kal"
   width={63} height={78}
   className="h-32 ml-[142px] w-32"/>
 
 <h1 className="font-bold text-lg ml-[154px] mt-3">John Leboo</h1>
 <p className="text-lg ml-[159px]">Dog Trainer</p>
 <Image
-  src="Image/SocialIcons.svg" alt="james"
+  src="/image/SocialIcons.svg" alt="james"
   width={63} height={78}
   className="h-9 ml-[165px] mt-4 w-24"/>
       </div>
@@ -746,7 +746,7 @@ border ml-44 border-black px-3 py-1 mr-7px rounded-[5px]">View All</button>
 <p className="ml-24 text-base mt-6 font-[500]">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
 
 <Image
-src="Image/Content.svg" alt="Image"
+src="/image/Content.svg" alt="Image"
 width={64} height={73}
 className="w-[350vh] max:hidden h-[50vh] mt-24 xm:hidden"
 />      
@@ -756,13 +756,13 @@ className="w-[350vh] max:hidden h-[50vh] mt-24 xm:hidden"
 <p className="text-center mx:hidden justify-center"> adipiscing elit.</p>
 
 <Image
-src="Image/Cantent.svg" alt="Image"
+src="/image/Cantent.svg" alt="Image"
 width={64} height={73}
 className="w-[350vh] max:hidden h-[50vh] mt-24 mx:hidden"
 /> 
 
 <Image
-src="Image/Contentb.svg" alt="Image"
+src="/image/Contentb.svg" alt="Image"
 width={640} height={730}
 className="w-[70vh] h-[8vh] mb-36 mt-242 mx:h-[100px] mx:w-[1290px]"
 />   
@@ -800,7 +800,7 @@ className="w-[70vh] h-[8vh] mb-36 mt-242 mx:h-[100px] mx:w-[1290px]"
 
 {/* Logo Section */}
 <Image
-  src="Image/Ddsgnr.svg" 
+  src="/image/Ddsgnr.svg" 
   alt="Image"
   width={64} 
   height={73}

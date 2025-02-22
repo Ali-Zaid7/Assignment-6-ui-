@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+Ddsgnr - Online Learning Platform
+This project is a responsive web application for an online learning platform called Ddsgnr. It is built using Next.js and Tailwind CSS for styling. The platform showcases courses, achievements, team members, and testimonials, providing a seamless user experience across both desktop and mobile devices.
 
-First, run the development server:
+Vercel link: https://assignment-6-ui.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Features
+Responsive Design: Optimized for both desktop and mobile screens.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Course Categories: Explore courses by category, including Design, Marketing, Development, and more.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Achievements Section: Highlights the platform's milestones, such as the number of courses, mentors, and students.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Team Section: Introduces the team members with their roles and social links.
 
-## Learn More
+Testimonials: Displays customer feedback and reviews.
 
-To learn more about Next.js, take a look at the following resources:
+Newsletter Subscription: Allows users to subscribe to the platform's newsletter.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Technologies Used
+Next.js: For server-side rendering and routing.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Tailwind CSS: For utility-first styling and responsive design.
 
-## Deploy on Vercel
+React: For building reusable components.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Next/Image: For optimized image loading.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Key Components
+Header:
+
+Displays contact information (phone number and email).
+
+Navigation links for Home, Courses, Services, Achievements, About Us, and Testimonials.
+
+Login and Sign Up buttons.
+
+Hero Section:
+
+Prominent call-to-action buttons: "Start Learning Now" and "Explore Courses".
+
+Responsive design for both desktop and mobile views.
+
+Course Categories:
+
+Displays courses by category with icons and descriptions.
+
+Categories include Design, Marketing, Development, Communication, and more.
+
+Achievements Section:
+
+Highlights key statistics like the number of courses, mentors, students, and recognitions.
+
+Team Section:
+
+Introduces team members with their roles and social media links.
+
+Testimonials:
+
+Displays customer feedback and reviews.
+
+Footer:
+
+Links to Courses, Resources, and About Us sections.
+
+Social media links and legal information (Privacy Policy, Terms of Service, Cookies Settings).
